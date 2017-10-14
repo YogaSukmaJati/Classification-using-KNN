@@ -1,2 +1,1 @@
-# Classification-using-KNN
-development
+Development
